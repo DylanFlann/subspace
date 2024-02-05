@@ -6,7 +6,7 @@
 [![Rust Docs](https://img.shields.io/docsrs/subspace?label=rust%20docs&style=flat-square)](https://subspace.github.io/subspace)
 
 This is a mono repository for [Subspace Network](https://subspace.network/) implementation, primarily containing
-Subspace node/client using Substrate framework and farmer app implementations.
+Subspace node/client using Substrate framework and farmer app implementations
 
 ## Repository structure
 
